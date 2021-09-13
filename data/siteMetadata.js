@@ -1,9 +1,8 @@
 const siteMetadata = {
   title: 'Trevor Behnke Portfolio and Blog',
   author: 'Trevor Behnke',
-  headerTitle: 'Trevor | Web Developer',
-  description:
-    "Hello 👋, I'm Trevor. A web developer from California and this is my personal website. Have a look around at some of my recent web devleopement projects, and have a quick read of some loosly related blog posts I've written.",
+  headerTitle: 'Trevor Behnke',
+  description: "Hey 👋, I'm Trevor. A web developer from California.",
   language: 'en-us',
   siteUrl: 'https://www.TrevorBehnke.com/',
   siteRepo: 'https://github.com/trevorbehnke/myPortfolio.git',

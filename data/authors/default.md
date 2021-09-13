@@ -2,16 +2,20 @@
 name: Trevor Behnke
 avatar: /static/images/avatar.jpeg
 occupation: Web Developer
-company: Trevor Behnke LLC
+# company: Trevor Behnke LLC
 email: trevorbehnke@gmail.com
 twitter: https://twitter.com/trev_ab
 linkedin: https://www.linkedin.com/in/trevorbehnke
 github: https://github.com/trevorbehnke
 ---
 
-While studying Business Management in college, I certified as a Google Cloud Platform Architect & Engineer, but I wasn’t building any UX/UI and _I felt stuck..._
+If you're wondering who I am 🧐...
 
-In 2019 I decided it was **time for a change** so I started to learn
+I'm **Trevor**, a self-taught web developer from California.
+
+Right around the time I graduated college with my Business degree, I certified as a Google Cloud Platform Architect & Engineer, but _I felt stuck_ afterword because I wanted to build full stack applications and I realized I needed to learn UX/UI.
+
+I decided it was **time for a change** so I started to learn
 `<JavaScript/>` whenever I had free time. I quickly started to love it and
 I’ve been studying Front-End development ever since!
 
@@ -27,25 +31,18 @@ Over the last couple of years, I've taken _hundreds of hours_ of online courses 
 
 Because we know the best way to learn is to practice, I also did a bunch of personal projects with the knowledge I gathered from the courses, you can check them out in my [portfolio](http://localhost:3000/projects). I even started a blog that focuses on the art and philosophy of coding.
 
-```js:whatDoNow.js
-const brainpower = "depends on coffee"
-function proceed(brainpower) {
-  return brainpower >= 0.7 ? code : eatSleepTrain)
-}
-```
-
 I consider myself a ‘forever student,’ eager to both build on my
 academic foundations as well as stay in touch with the latest technology and strategies.
+
+| My current stack of languages/technologies is:                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<HTML5/>` - `<CSS3/>` - `<JAVASCRIPT/>` - `<SASS/>` - `<REACTJS/>` - - `<STYLED COMPONENTS/>` - `<FIREBASE/>` - `<GRAPHQL/>` - `<GATSBY/>` - `<MONGODB/>` - `<EXPRESSJS/>` - `<NODEJS/>` |
+
+I always want to learn more, do more, and be more. I’m also a firm
+believer that we should never settle.
 
 As Socrates once said:
 
 > The only true wisdom is in knowing you know nothing.
 
-I always want to learn more, do more, and be more. I’m also a firm
-believer that we should never settle.
-
 I’m **hard working, super curious, passionate, committed,** and also a **fast learner**!
-
-| My current stack of languages/technologies is:                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `<HTML5/>` - `<CSS3/>` - `<JAVASCRIPT/>` - `<SASS/>` - `<REACTJS/>` - - `<STYLED COMPONENTS/>` - `<FIREBASE/>` - `<GRAPHQL/>` - `<GATSBY/>` - `<MONGODB/>` - `<EXPRESSJS/>` - `<NODEJS/>` |
