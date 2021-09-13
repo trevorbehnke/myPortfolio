@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Trevor Behnke Portfolio and Blog',
+  title: 'Trevor Behnke Blog',
   author: 'Trevor Behnke',
   headerTitle: 'Trevor Behnke',
   description: "Hey 👋, I'm Trevor. A web developer from California.",

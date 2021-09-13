@@ -4,7 +4,6 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
-import { Typewriter } from 'react-simple-typewriter'
 
 import NewsletterForm from '@/components/NewsletterForm'
 
@@ -26,21 +25,7 @@ export default function Home({ posts }) {
             Latest
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {siteMetadata.description.slice(0, 22)}
-            {console.log(siteMetadata.description.slice(0, 22))}
-            <span style={{ color: 'red', fontWeight: 'bold' }}>
-              {/* Style will be inherited from the parent element */}
-              <Typewriter
-                words={['modern', 'curious', 'pragmatic', 'driven']}
-                loop={false}
-                cursor
-                cursorStyle="_"
-                typeSpeed={80}
-                deleteSpeed={50}
-                delaySpeed={1500}
-              />
-            </span>
-            {siteMetadata.description.slice(22)}
+            {siteMetadata.description}
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
